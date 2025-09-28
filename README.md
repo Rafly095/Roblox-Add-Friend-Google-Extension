@@ -2,8 +2,10 @@
 
 **Roblox Friend Request Helper** adalah sebuah Chrome Extension sederhana yang membantu mencari username Roblox dan mengirimkan permintaan pertemanan hanya dengan satu klik.
 
-✨ Fun fact: Extension ini sepenuhnya ditulis oleh **AI**.  
+Extension ini sepenuhnya ditulis oleh **AI**.  
 Saya sebagai pembuat tidak mengerti satu baris kode pun—semua logika, HTML, CSS, dan JavaScript dibuat otomatis oleh AI. Saya hanya menggabungkan hasilnya menjadi sebuah extension.
+
+file reame ini juga 
 
 ---
 
@@ -12,6 +14,8 @@ Saya sebagai pembuat tidak mengerti satu baris kode pun—semua logika, HTML, CS
 - Tampilkan hasil pencarian dalam bentuk kartu (card) yang rapi.
 - Tombol **"Add Friend"** untuk langsung mengirim permintaan pertemanan.
 - Status akan muncul apakah proses berhasil atau gagal.
+- Jika status error memunculkan pesan error, tapi tidak ada kendala pada internet, bisa jadi sudah berteman
+- jika pembeli mengirimkan pertemanan duluan, kamu bisa pencet add friend ke username pembeli untuk menerima pertemanannya 
 
 ---
 
@@ -53,6 +57,7 @@ Karena tidak dipublikasikan di Chrome Web Store, kamu bisa meng-install secara m
 4. Klik **Load unpacked** lalu pilih folder hasil extract.  
 5. Extension akan muncul di toolbar Chrome.  
 
+- Tutorial by [Video](https://www.youtube.com/watch?v=oswjtLwCUqg)
 ---
 
 ## ⚠️ Catatan
