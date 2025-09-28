@@ -65,8 +65,3 @@ Karena tidak dipublikasikan di Chrome Web Store, kamu bisa meng-install secara m
 - Extension ini tidak menyimpan data login kamu—semua request dilakukan langsung ke server Roblox menggunakan session yang sudah ada.  
 - Project ini dibuat **untuk belajar** dan eksperimen, bukan untuk penggunaan masif/spam.  
 
----
-
-## 📄 Lisensi
-Bebas digunakan, dimodifikasi, dan dibagikan.  
-Mohon sertakan kredit ke repo ini atau sebutkan bahwa project ini dibuat dengan bantuan **AI**.
